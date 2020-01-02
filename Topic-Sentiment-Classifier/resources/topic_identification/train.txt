@@ -1,0 +1,1280 @@
+__label__parking overnight parking available
+__label__neighborhood excellent non - chain
+__label__price low price fast check
+__label__proximity convenient place people live downtown
+__label__crowded crowded
+__label__price great price
+__label__parking plenty parking easy find
+__label__selection find want place
+__label__atmosphere place kind dumpy people bum money
+__label__fresh fresh fruit
+__label__atmosphere good atmosphere
+__label__crowded crowd
+__label__crowded check crowd
+__label__fresh get fresh chicken wing berry banana
+__label__neighborhood great community grocery store
+__label__ethnic_selection quaint neighborhood grocery store plenty international item
+__label__crowded busy place
+__label__repeat_visit love aldi apparently
+__label__parking metered parking outside
+__label__atmosphere people hang
+__label__offerings salad bar decent
+__label__crowded not crowd
+__label__parking bad not parking lot
+__label__selection fascinating store fill goody not know exist
+__label__staff friendly service
+__label__staff love location friendly sure great experience shop
+__label__price not good price give item
+__label__proximity shaw giant despite place nearly equidistant
+__label__ethnic_selection store remarkable international food choose
+__label__atmosphere friendly atmosphere
+__label__proximity great store quick visit right corner
+__label__price place point price
+__label__neighborhood good location near neighborhood
+__label__repeat_visit great experience
+__label__offerings nice place lunch
+__label__fresh food fresh
+__label__price cheap produce
+__label__proximity overall get job need pick quickly
+__label__price competitive price unlike store
+__label__neighborhood store definitely bad neighborhood
+__label__layout gigantic size grocery store
+__label__staff employee ready help
+__label__proximity convenient market surprise
+__label__neighborhood family store ln neigborhood
+__label__repeat_visit pleasure shop
+__label__neighborhood great neighborhood support
+__label__repeat_visit go year
+__label__cleanliness manage professional sure store remain clean welcome no matter busy
+__label__proximity close supermarket live town dc
+__label__layout bite cramped
+__label__cleanliness save lot clean
+__label__proximity wish locate live unfortunately not
+__label__staff friendly staff
+__label__proximity walk distance
+__label__crowded crowded
+__label__offerings bad experience coffee shop
+__label__cleanliness store clean
+__label__offerings delicious bakery
+__label__parking metered parking outside
+__label__repeat_visit love location
+__label__layout layout suck
+__label__neighborhood friendly neighborhood market
+__label__atmosphere overall atmosphere nice
+__label__offerings buy deli item goid curry chicken salad sandwich
+__label__parking no dedicated parking
+__label__quality good quality product
+__label__layout bite cramped
+__label__quality grocery story absolutely wonderful
+__label__efficiency_of_service quickly find need
+__label__efficiency_of_service slow angry aldi
+__label__price meat price good
+__label__quality quality product okay
+__label__selection impressive selection type
+__label__layout good quick stop shop
+__label__layout excellent look
+__label__price great price
+__label__atmosphere good atmosphere
+__label__cleanliness nice clean store get variety product
+__label__price good price
+__label__quality not issue quality
+__label__crowded crowded
+__label__efficiency_of_service quick check cashier
+__label__proximity good pinch
+__label__crowded crowded
+__label__offerings bad experience coffee shop
+__label__selection great selection
+__label__proximity excellent option couple block away
+__label__cleanliness clean store
+__label__atmosphere place kind dumpy people bum money
+__label__cleanliness clean stocked
+__label__selection ac a!a|
+__label__staff attentive care staff
+__label__neighborhood nice neighborhood corner store
+__label__proximity quick stop shop
+__label__price price consider highway robbery
+__label__selection find crumpet
+__label__price price high
+__label__price great money saving
+__label__price price right
+__label__quality grocery story absolutely wonderful
+__label__price great price
+__label__ethnic_selection non - western food
+__label__cleanliness not clean place
+__label__price reasonable price
+__label__cleanliness store clean good number product
+__label__offerings great slice ham n cheese
+__label__repeat_visit aldi stop grocery run
+__label__efficiency_of_service great quick shop
+__label__selection decent selection product
+__label__price quick lunch reasonable price
+__label__fresh aldi fresh vegetable dc area
+__label__staff checker kind
+__label__staff super friendly
+__label__parking metered parking outside
+__label__proximity close new home
+__label__crowded awesome not busy time day
+__label__crowded like aldi pack
+__label__efficiency_of_service fast quick easy come
+__label__selection good selection goya product
+__label__cleanliness clean customer service a++
+__label__proximity quick stop shop
+__label__ethnic_selection store remarkable international food choose
+__label__efficiency_of_service generally short checkout line
+__label__efficiency_of_service quick check
+__label__staff helpful staff
+__label__layout layout bad
+__label__selection great place find difficult find foreign ingredient
+__label__quality unexpected quality product
+__label__repeat_visit recommend wegman
+__label__repeat_visit miss
+__label__atmosphere nice ambiance
+__label__quality produce generally good
+__label__quality great produce meat
+__label__fresh lot bug fruit vegetable not look fresh
+__label__fresh food fresh
+__label__fresh fresh food
+__label__proximity excellent option couple block away
+__label__parking parking space
+__label__fresh fresh market wonderful barrel coffee bean
+__label__ethnic_selection basic necessity exotic need supermarket
+__label__atmosphere great atmosphere
+__label__parking parking free available careful parking lot way way set
+__label__price quick lunch reasonable price
+__label__staff staff friendly willing help
+__label__quality food awsome
+__label__ethnic_selection basic necessity exotic need supermarket
+__label__proximity excellent option couple block away
+__label__proximity excellent option couple block away
+__label__crowded crowded
+__label__parking parking free available careful parking lot way way set
+__label__cleanliness store neat clean store team provide excellent customer service
+__label__staff nice staff
+__label__ethnic_selection soo stuff eat europe not find
+__label__proximity convenient market surprise
+__label__parking plenty parking
+__label__proximity wish locate live unfortunately not
+__label__parking easy free love store.adega?aaadega?aaadega?aa
+__label__repeat_visit let
+__label__cleanliness clean good price friendly staff
+__label__offerings bakery point
+__label__staff super service
+__label__efficiency_of_service shopping lot quick
+__label__efficiency_of_service cashier
+__label__neighborhood decent neighbourhood grocery store shaw
+__label__repeat_visit awesome
+__label__efficiency_of_service cashier line long
+__label__efficiency_of_service line quickly
+__label__efficiency_of_service fast quick easy come
+__label__layout architecture stylish elegant
+__label__crowded get pretty crowded weekend
+__label__quality good dang food grocery option
+__label__neighborhood neighborhood store good
+__label__atmosphere place kind dumpy people bum money
+__label__fresh get lot well fresh procduce organic offer small gluten free area hige family
+__label__quality good quality product
+__label__efficiency_of_service pretty good store worker tend quick cashier good service
+__label__repeat_visit favorite neighborhood market dc
+__label__neighborhood fantastic neighborhood grocery store deli want
+__label__quality good quality
+__label__neighborhood neighborhood store good
+__label__selection stock
+__label__layout interior lot desire
+__label__fresh meat go kind downhill freshness
+__label__quality good dang food grocery option
+__label__fresh produce superior grocery store farm table fresh
+__label__ethnic_selection interesting mexican spice candy
+__label__offerings helpful combine lunch grocery shopping
+__label__repeat_visit not real issue food service wegman
+__label__layout layout suck
+__label__cleanliness friendly clean
+__label__fresh love fresh market open kind meh
+__label__price quick lunch reasonable price
+__label__proximity live close
+__label__crowded sure not ram carts- customer rush
+__label__neighborhood great local neighborhood
+__label__parking plenty parking
+__label__repeat_visit regular store brand
+__label__parking parking space good
+__label__repeat_visit fun shopping experience
+__label__quality good quality product
+__label__efficiency_of_service shop quick not ton choice
+__label__staff great service find everythi g need
+__label__price fine expensive
+__label__offerings deliver door
+__label__staff staff greet door ask able find ok
+__label__ethnic_selection notably latin america east asia
+__label__selection able find need
+__label__crowded busy place
+__label__efficiency_of_service line slow p.m.
+__label__repeat_visit not good experience aldi
+__label__price find good deal
+__label__layout good quick stop shop
+__label__efficiency_of_service line open
+__label__staff helpful staff
+__label__layout layout good
+__label__neighborhood neighborhood friendly
+__label__proximity convenient grocery market competitive price
+__label__quality good quality
+__label__atmosphere good atmosphere
+__label__cleanliness great price pretty clean
+__label__quality great meat department
+__label__crowded crowded
+__label__selection find crumpet
+__label__staff customer service good
+__label__proximity convenient grocery market competitive price
+__label__proximity close new home
+__label__ethnic_selection itac a!ac s own korean cater salvadorian
+__label__layout interior lot desire
+__label__neighborhood friendly neighborhood market
+__label__staff rude ppl work good
+__label__neighborhood nice neighborhood corner store
+__label__cleanliness store clean customer service good
+__label__price great price item
+__label__efficiency_of_service like quick efficient check
+__label__atmosphere friendly atmosphere
+__label__neighborhood neighborhood store
+__label__staff love way place treat employee
+__label__repeat_visit favorite neighborhood market dc
+__label__fresh produce not look fresh
+__label__selection stock
+__label__crowded awesome not busy time day
+__label__cleanliness clean
+__label__layout instance not store ac a!a|
+__label__selection great local meat shop get great cut meat chicken
+__label__offerings delicious bakery
+__label__quality great produce
+__label__cleanliness not clean & shelf disarray
+__label__offerings amazing butcher shop good steak quality town
+__label__atmosphere place kind dumpy people bum money
+__label__price great price
+__label__cleanliness great neighborhood grocery store clean
+__label__price price consider highway robbery
+__label__cleanliness clean store
+__label__ethnic_selection good selection rice specialty flour
+__label__layout excellent look
+__label__selection extensive selection
+__label__layout good quick stop shop
+__label__selection love aldi find look
+__label__offerings deli/ buffett bar good break work quick meal shop
+__label__crowded crowd time
+__label__cleanliness clean fast service
+__label__atmosphere great atmosphere
+__label__neighborhood neighborhood store good
+__label__staff friendly staff
+__label__fresh save fresh vegetable
+__label__fresh downside produce not fresh
+__label__price price consider highway robbery
+__label__selection love aldi find look
+__label__neighborhood wonderful little neighborhood market
+__label__crowded get pretty crowded day
+__label__ethnic_selection quaint neighborhood grocery store plenty international item
+__label__offerings deliver door
+__label__staff kevin helpful
+__label__parking overnight parking available
+__label__staff staff help answer question regardless dept work
+__label__neighborhood fantastic neighborhood grocery store deli want
+__label__fresh fresh food
+__label__staff rude ppl work good
+__label__layout layout nice
+__label__staff rude ppl work good
+__label__ethnic_selection great small ethnic supermarket middle dc
+__label__proximity convenient market surprise
+__label__crowded crowd
+__label__neighborhood awesome for.the neighborhood
+__label__fresh translate google find shop fresh original encuentras casi todo lo que ay en lavtienda y fresco
+__label__cleanliness store neat clean
+__label__fresh milk go bad instantly
+__label__price good price
+__label__parking parking lot
+__label__selection ac a!a|
+__label__price find good deal
+__label__price find surprise price trip worthwhile
+__label__selection fascinating store fill goody not know exist
+__label__price find good deal
+__label__fresh freshness questionable
+__label__neighborhood little family own supermarket vital shop dupont circle neighborhood
+__label__ethnic_selection basic necessity exotic need supermarket
+__label__layout excellent look
+__label__staff friendly staff
+__label__parking plenty free parking
+__label__neighborhood neighbor columbia height go
+__label__layout layout suck
+__label__parking lot parking
+__label__ethnic_selection stop japanese potato scotch bonnet
+__label__neighborhood excellent non - chain
+__label__neighborhood neighborhood flourish
+__label__cleanliness cleanliness
+__label__parking cover parking
+__label__layout layout good
+__label__ethnic_selection good option caribbean people
+__label__parking lot parking
+__label__repeat_visit feel special go
+__label__staff cashier awsome
+__label__proximity walk distance
+__label__cleanliness nice clean line fast
+__label__layout layout good
+__label__repeat_visit wegman donac a!ac t love
+__label__staff service nice
+__label__proximity walk distance
+__label__staff great customer interaction
+__label__price half use capital card
+__label__offerings helpful combine lunch grocery shopping
+__label__fresh fresh food decent price
+__label__cleanliness store clean & employee respectful
+__label__neighborhood great local neighborhood
+__label__crowded crowd time
+__label__proximity quick stop shop
+__label__proximity wish locate live unfortunately not
+__label__neighborhood great community grocery store
+__label__neighborhood live neighborhood find pretty need
+__label__quality issue good quality
+__label__proximity excellent option couple block away
+__label__layout gigantic size grocery store
+__label__cleanliness store clean
+__label__proximity walk distance
+__label__ethnic_selection good bit latin random asian flavor
+__label__crowded crowd time
+__label__price good place grocery want save money
+__label__efficiency_of_service generally short checkout line
+__label__selection not lot brand
+__label__neighborhood small neighborhood grocery block somewhat large neighborhood grocery
+__label__atmosphere good ambience
+__label__selection fruit & veggie weird meat cut & organ
+__label__quality quality food not good
+__label__proximity convenient place people live downtown
+__label__staff staff friendly
+__label__cleanliness store stock clean
+__label__price half use capital card
+__label__crowded busy place
+__label__cleanliness not clean place
+__label__fresh produce usually mold nearly time fine
+__label__layout despite store huge
+__label__repeat_visit usually visit location need grab couple minute item work
+__label__selection ac a!a|
+__label__quality quality great
+__label__layout good quick stop shop
+__label__repeat_visit perfect stop store need
+__label__efficiency_of_service cashier pretty slow
+__label__proximity close supermarket live town dc
+__label__ethnic_selection store remarkable international food choose
+__label__ethnic_selection nice variety item asian section
+__label__parking plenty room large parking lot
+__label__atmosphere atmosphere nice
+__label__quality poor quality food
+__label__efficiency_of_service line move quickly
+__label__quality quality food not good
+__label__selection amazed item comparison item upscale grocery chain
+__label__neighborhood no frill neighborhood market
+__label__atmosphere great atmosphere
+__label__atmosphere place kind dumpy people bum money
+__label__price reasonable price
+__label__atmosphere overall atmosphere nice
+__label__ethnic_selection quaint neighborhood grocery store plenty international item
+__label__efficiency_of_service put giant long line
+__label__layout instance not store ac a!a|
+__label__efficiency_of_service cashier s
+__label__cleanliness clean
+__label__crowded crowded
+__label__fresh food fresh
+__label__efficiency_of_service shop quick not ton choice
+__label__proximity wish locate live unfortunately not
+__label__price not cheap grocery store
+__label__price need reasonable price
+__label__layout despite store huge
+__label__proximity convenient market surprise
+__label__offerings nice place lunch
+__label__parking easy parking low level
+__label__selection find thing wegman
+__label__neighborhood decent neighbourhood grocery store shaw
+__label__parking great parking
+__label__fresh fresh market
+__label__crowded like aldi pack
+__label__cleanliness store need clean
+__label__proximity good pinch
+__label__selection good buy thing thing usually not find local giant food
+__label__staff love aldi look forward see saturday
+__label__offerings deli/ buffett bar good break work quick meal shop
+__label__offerings pharmacy
+__label__atmosphere good ambience
+__label__quality quality food
+__label__fresh fresh sushi good
+__label__fresh produce fresh
+__label__crowded crowded
+__label__selection amazed item comparison item upscale grocery chain
+__label__offerings buy deli item goid curry chicken salad sandwich
+__label__cleanliness clean
+__label__offerings butcher
+__label__cleanliness clean
+__label__repeat_visit shop
+__label__quality good dang food grocery option
+__label__offerings great food court
+__label__layout despite store huge
+__label__repeat_visit awesome come
+__label__cleanliness rest room clean staff helpful
+__label__layout excellent look
+__label__ethnic_selection combination latin asian market mainstream food item
+__label__repeat_visit not good experience aldi
+__label__cleanliness clean store
+__label__efficiency_of_service cashier s
+__label__selection not simple staple thing food sell like baby bok choy leak
+__label__crowded get pretty crowded weekend
+__label__selection great selection international product
+__label__staff staff helpful.i love quality meat item
+__label__quality good dang food grocery option
+__label__repeat_visit miss
+__label__atmosphere people hang
+__label__price save day price
+__label__layout architecture stylish elegant
+__label__layout interior lot desire
+__label__offerings deliver door
+__label__repeat_visit let
+__label__efficiency_of_service quick fast food
+__label__staff staff kind knowledgeable
+__label__efficiency_of_service line slow p.m.
+__label__repeat_visit not good experience aldi
+__label__layout bite cramped
+__label__repeat_visit usually visit location need grab couple minute item work
+__label__parking great parking
+__label__atmosphere bad ambience
+__label__price price right
+__label__layout gigantic size grocery store
+__label__neighborhood neighbor columbia height go
+__label__efficiency_of_service short line
+__label__atmosphere atmosphere nice
+__label__parking escalator locate inside store go second floor parking garage
+__label__crowded crowded
+__label__cleanliness humble not clean international grocery include korean japanese
+__label__atmosphere nice ambiance
+__label__fresh produce fresh
+__label__price little overpriced far american stuff
+__label__quality great quality
+__label__offerings meat department good selection large cut not small grocery store
+__label__atmosphere friendly atmosphere
+__label__repeat_visit pleasure wegman
+__label__repeat_visit great place shop food
+__label__proximity convenient grocery market competitive price
+__label__atmosphere atmosphere make shopping pleasant experience
+__label__ethnic_selection non - western food
+__label__layout layout nice
+__label__staff helpful staff
+__label__ethnic_selection nice variety item asian section
+__label__price little overpriced far american stuff
+__label__parking escalator locate inside store go second floor parking garage
+__label__crowded way crowd
+__label__repeat_visit wegman donac a!ac t love
+__label__parking plenty parking
+__label__atmosphere friendly atmosphere
+__label__quality quality food not good
+__label__selection fantastic selection item
+__label__efficiency_of_service line aldi line quick
+__label__price quick lunch reasonable price
+__label__offerings meat department good selection large cut not small grocery store
+__label__efficiency_of_service line quickly
+__label__neighborhood overall great little neighborhood supermarket
+__label__efficiency_of_service great quick shop
+__label__selection hardly item
+__label__fresh not fresh old
+__label__price great price item
+__label__quality good quality food
+__label__proximity close supermarket live town dc
+__label__efficiency_of_service line move quickly
+__label__offerings huge cheese olive bar
+__label__staff great service find everythi g need
+__label__quality bad quality
+__label__layout gigantic size grocery store
+__label__proximity great store quick visit right corner
+__label__selection certain
+__label__fresh laurel location small selection fresh fruit veggie
+__label__fresh fresh product fair price
+__label__cleanliness store neat clean store team provide excellent customer service
+__label__repeat_visit let
+__label__atmosphere nice atmosphere
+__label__offerings hot bar
+__label__atmosphere place kind dumpy people bum money
+__label__efficiency_of_service quick checkout generally
+__label__neighborhood great neighborhood store
+__label__cleanliness nice clean store
+__label__price item price
+__label__efficiency_of_service great quick lunch
+__label__ethnic_selection neat hispanic asian grocery
+__label__parking lot parking
+__label__price not good price give item
+__label__offerings hot bar
+__label__crowded store not crowd
+__label__offerings amazing butcher shop good steak quality town
+__label__staff cashier willing help
+__label__ethnic_selection nice little store ethnic food asian hispanic
+__label__ethnic_selection stop japanese potato scotch bonnet
+__label__quality quality good
+__label__offerings nice place lunch
+__label__ethnic_selection itac a!ac s own korean cater salvadorian
+__label__proximity quick stop shop
+__label__repeat_visit recommend wegman
+__label__selection great unique ingredient not find large grocery store
+__label__parking bad not parking lot
+__label__cleanliness clean
+__label__fresh find crisp apple bad timing
+__label__cleanliness small selection item place not clean itac a!ac s area
+__label__quality food pretty bad
+__label__ethnic_selection day stuff asia food
+__label__offerings deliver door
+__label__price price relatively cheap established brand like giant safeway especially meat
+__label__price reasonable price
+__label__layout gigantic size grocery store
+__label__price price high
+__label__offerings deli counter fantastic give sample bring smile
+__label__crowded sure not ram carts- customer rush
+__label__price cheap store find need
+__label__atmosphere atmosphere make shopping pleasant experience
+__label__offerings delicious bakery
+__label__crowded crowd
+__label__repeat_visit wegman awesome store
+__label__parking west end parking lot
+__label__atmosphere good ambience
+__label__price price reasonable
+__label__price aldi provide grocery need great price
+__label__neighborhood neighbor columbia height go
+__label__cleanliness nice clean store
+__label__parking no dedicated parking
+__label__ethnic_selection basic necessity exotic need supermarket
+__label__atmosphere place kind dumpy people bum money
+__label__layout excellent look
+__label__quality great produce meat
+__label__neighborhood neighborhood store
+__label__repeat_visit love aldi apparently
+__label__selection find ingredient not stor
+__label__selection unique hard find offering
+__label__neighborhood decent neighbourhood grocery store shaw
+__label__cleanliness close live clean stocked.reasonable
+__label__efficiency_of_service line long
+__label__ethnic_selection soo stuff eat europe not find
+__label__crowded place pack
+__label__parking west end parking lot
+__label__repeat_visit great experience
+__label__fresh food fresh
+__label__staff staff greet door ask able find ok
+__label__fresh produce limited old course run stuff
+__label__quality food pretty high quality
+__label__repeat_visit awesome
+__label__efficiency_of_service nearly need work quick shopping
+__label__ethnic_selection good option caribbean people
+__label__offerings deli/ buffett bar good break work quick meal shop
+__label__ethnic_selection good selection hard find asian pantry item dc
+__label__atmosphere friendly atmosphere
+__label__staff amous people
+__label__parking parking free
+__label__staff staff helpful smile
+__label__selection time find good world
+__label__selection stock time
+__label__fresh decent selection fresh produce store size
+__label__crowded not crowded
+__label__layout layout suck
+__label__proximity overall get job need pick quickly
+__label__efficiency_of_service cashier quick checkout
+__label__atmosphere good ambience
+__label__neighborhood nice neiborhood supermarket
+__label__repeat_visit pleasure wegman
+__label__atmosphere good ambience
+__label__ethnic_selection need latino korean food ingredient
+__label__crowded crowded
+__label__cleanliness clean
+__label__fresh seafood supper fresh
+__label__crowded crowded
+__label__atmosphere friendly atmosphere
+__label__layout excellent look
+__label__atmosphere friendly atmosphere
+__label__repeat_visit pleasure shop
+__label__selection produce section pretty big consider size store hit miss
+__label__efficiency_of_service line quickly
+__label__ethnic_selection sell jicama
+__label__selection great selection
+__label__layout excellent look
+__label__staff staff look tired halpful
+__label__atmosphere overall atmosphere nice
+__label__cleanliness store clean customer service good
+__label__layout excellent look
+__label__quality good dang food grocery option
+__label__selection find want place
+__label__fresh exceptional selection fresh meat
+__label__layout excellent look
+__label__efficiency_of_service quick check
+__label__crowded crowded
+__label__staff staff kind knowledgeable
+__label__staff staff friendly helpful
+__label__crowded place pack
+__label__parking parking free
+__label__neighborhood neighborhood friendly
+__label__parking parking lot number
+__label__parking parking lot number
+__label__layout excellent look
+__label__neighborhood wonderful little neighborhood market
+__label__fresh fresh baked bread site
+__label__quality great quality meat produce
+__label__proximity convenient location
+__label__selection able find need
+__label__offerings salad bar decent
+__label__parking lot parking
+__label__fresh get lot well fresh procduce organic offer small gluten free area hige family
+__label__crowded not crowded
+__label__ethnic_selection itac a!ac s own korean cater salvadorian
+__label__parking no parking lot
+__label__cleanliness store stock clean
+__label__selection not great beer selection
+__label__cleanliness store clean
+__label__offerings hot bar
+__label__price great money saving
+__label__parking parking space
+__label__crowded crowd time
+__label__layout layout suck
+__label__atmosphere great atmosphere
+__label__crowded not crowd
+__label__crowded way crowd
+__label__repeat_visit good grocery store world
+__label__neighborhood clear no longer want neighborhood grocery
+__label__cleanliness humble not clean international grocery include korean japanese
+__label__proximity convenient location
+__label__parking no parking
+__label__repeat_visit aldi great
+__label__quality bad quality
+__label__crowded busy place
+__label__repeat_visit nice place shop variety grocery
+__label__price aldi provide grocery need great price
+__label__offerings amazing butcher shop good steak quality town
+__label__staff great customer interaction
+__label__price youy find great price grocery
+__label__neighborhood neighborhood alid
+__label__selection stock
+__label__efficiency_of_service staff quick check
+__label__quality quality good
+__label__selection aquapsa se encuentra de todo un poco
+__label__ethnic_selection good bit latin random asian flavor
+__label__staff service store great
+__label__ethnic_selection interesting mexican spice candy
+__label__selection not simple staple thing food sell like baby bok choy leak
+__label__efficiency_of_service line slow p.m.
+__label__layout gigantic size grocery store
+__label__repeat_visit nice stop mud day
+__label__offerings stand deli counter minute
+__label__parking west end parking lot
+__label__staff love way place treat employee
+__label__efficiency_of_service fast quick easy come
+__label__crowded not crowd
+__label__staff checker kind
+__label__selection good selection
+__label__parking lot parking space & easy
+__label__neighborhood no frill neighborhood market
+__label__cleanliness nice clean stock nice
+__label__cleanliness clean fast service
+__label__repeat_visit great grocery experience
+__label__repeat_visit nice place shop variety grocery
+__label__layout layout suck
+__label__price pretty decent price
+__label__repeat_visit favorite neighborhood market dc
+__label__selection product option
+__label__price quick lunch reasonable price
+__label__price low price fast check
+__label__parking not like parking lot
+__label__neighborhood nice neiborhood supermarket
+__label__fresh meat not look fresh
+__label__layout despite store huge
+__label__parking cover parking
+__label__efficiency_of_service good quick pick
+__label__crowded weekend little crowded
+__label__ethnic_selection sell jicama
+__label__crowded check crowd
+__label__cleanliness clean store
+__label__efficiency_of_service long checkout line
+__label__repeat_visit good supermarket
+__label__atmosphere great atmosphere
+__label__atmosphere nice ambiance
+__label__offerings huge cheese olive bar
+__label__proximity convenient location
+__label__layout good quick stop shop
+__label__repeat_visit feel special go
+__label__quality quality great
+__label__cleanliness surgeon place clean eat walk get need walk decent price
+__label__efficiency_of_service good quick pick
+__label__crowded crowded
+__label__neighborhood good spot neighborhood market
+__label__fresh great produce right walk
+__label__repeat_visit usually visit location need grab couple minute item work
+__label__cleanliness friendly clean
+__label__crowded not crowded
+__label__staff wait long register open
+__label__layout excellent look
+__label__quality great quality
+__label__cleanliness nice clean line fast
+__label__quality food awsome
+__label__fresh produce usually mold nearly time fine
+__label__fresh fresh good
+__label__quality good quality product
+__label__efficiency_of_service nearly need work quick shopping
+__label__fresh great produce right walk
+__label__proximity convenient place people live downtown
+__label__atmosphere friendly atmosphere
+__label__repeat_visit definitely not grocery shopping
+__label__repeat_visit awesome come
+__label__proximity good pinch
+__label__offerings pharmacy
+__label__quality poor quality food
+__label__parking plenty parking
+__label__ethnic_selection good selection rice specialty flour
+__label__fresh produce fresh
+__label__efficiency_of_service long checkout line
+__label__atmosphere friendly atmosphere
+__label__ethnic_selection basic necessity exotic need supermarket
+__label__efficiency_of_service line long
+__label__atmosphere dope vibe
+__label__atmosphere overall atmosphere nice
+__label__selection great selection
+__label__crowded weekend little crowded
+__label__quality wegman brand high quality
+__label__selection not great beer selection
+__label__ethnic_selection notably latin america east asia
+__label__efficiency_of_service knowledgeable quick aisist6
+__label__repeat_visit usually visit location need grab couple minute item work
+__label__atmosphere atmosphere nice
+__label__offerings bakery
+__label__layout instance not store ac a!a|
+__label__price low price fast check
+__label__atmosphere people hang
+__label__repeat_visit dynamic grocery restaurant world
+__label__neighborhood great local neighborhood
+__label__crowded weekend little crowded
+__label__offerings bakery
+__label__crowded store not crowd
+__label__cleanliness humble not clean international grocery include korean japanese
+__label__cleanliness store clean good number product
+__label__parking plenty parking
+__label__neighborhood fantastic neighborhood grocery store deli want
+__label__parking no parking
+__label__neighborhood live neighborhood find pretty need
+__label__atmosphere atmosphere nice
+__label__staff need helpful
+__label__cleanliness super clean
+__label__atmosphere friendly atmosphere
+__label__parking parking lot
+__label__neighborhood neighborhood alid
+__label__offerings salad bar decent
+__label__offerings stand deli counter minute
+__label__efficiency_of_service line slow p.m.
+__label__neighborhood family own grocery store
+__label__staff love aldi look forward see saturday
+__label__quality good quality product
+__label__quality good quality
+__label__fresh great fresh food
+__label__fresh market organic product
+__label__repeat_visit shop year improvement
+__label__offerings deliver door
+__label__crowded crowded
+__label__selection bunche daily supply
+__label__staff cashier wonderful family
+__label__efficiency_of_service shop quick not ton choice
+__label__parking cover parking
+__label__price great price
+__label__quality quality product okay
+__label__crowded store not crowd
+__label__parking lot parking
+__label__neighborhood good location near neighborhood
+__label__proximity overall get job need pick quickly
+__label__fresh meat not look fresh
+__label__fresh great selection fresh vegetable
+__label__crowded way crowd
+__label__parking lot parking space & easy
+__label__parking lot parking
+__label__efficiency_of_service slow angry aldi
+__label__proximity overall get job need pick quickly
+__label__offerings salad bar decent
+__label__neighborhood great local neighborhood
+__label__proximity walk distance
+__label__parking parking space good
+__label__proximity convenient place people live downtown
+__label__parking metered parking outside
+__label__layout layout bad
+__label__price great price
+__label__atmosphere good atmosphere
+__label__atmosphere good ambience
+__label__efficiency_of_service line long
+__label__neighborhood good little neighborhood market
+__label__crowded place crowd long line
+__label__atmosphere good ambience
+__label__crowded crowded
+__label__staff service nice
+__label__neighborhood small neighborhood grocery block somewhat large neighborhood grocery
+__label__parking weekend usually busy harder find parking close store
+__label__quality bad quality
+__label__repeat_visit time week
+__label__layout layout bad
+__label__atmosphere good ambience
+__label__offerings delicious bakery
+__label__quality great produce meat
+__label__quality quality grocery terrible
+__label__price price low
+__label__fresh fresh food kind expensive
+__label__cleanliness clean
+__label__staff friendly
+__label__fresh produce department amazing
+__label__price price little bit expensive chain
+__label__selection easy shop great selection
+__label__offerings quality butcher deli
+__label__cleanliness store clean
+__label__efficiency_of_service nearly need work quick shopping
+__label__ethnic_selection sell jicama
+__label__proximity excellent option couple block away
+__label__neighborhood good local store
+__label__repeat_visit love bestworld supermarket
+__label__layout layout good
+__label__crowded check crowd
+__label__quality good quality product
+__label__atmosphere good atmosphere
+__label__cleanliness clean stocked
+__label__fresh good come early want fresh fruit
+__label__cleanliness store clean
+__label__cleanliness clean good price friendly staff
+__label__offerings deliver door
+__label__repeat_visit wrong wegman
+__label__quality wegman brand high quality
+__label__atmosphere people hang
+__label__neighborhood great neighborhood corner store
+__label__fresh fresh food
+__label__crowded crowd
+__label__fresh fresh good
+__label__cleanliness clean fast
+__label__efficiency_of_service like quick efficient check
+__label__proximity convenient place people live downtown
+__label__neighborhood small community market
+__label__staff cashier willing help
+__label__offerings pharmacy
+__label__crowded busy place
+__label__cleanliness clean line usually speedy
+__label__price aldi good price produce snack
+__label__cleanliness clean
+__label__repeat_visit good
+__label__layout good quick stop shop
+__label__proximity convenient place people live downtown
+__label__neighborhood neighborhood alid
+__label__layout layout suck
+__label__layout bite cramped
+__label__price price high
+__label__price not good price give item
+__label__fresh translate google thing not fresh original a$?a aa"ay a?a$?a aa|aadega(c)a2a
+__label__efficiency_of_service checkout pretty slow self checkout
+__label__efficiency_of_service definitely convenient place need quick
+__label__fresh food fresh
+__label__staff attentive care staff
+__label__selection good selection
+__label__ethnic_selection sell jicama
+__label__cleanliness lot clean organize area
+__label__cleanliness clean
+__label__fresh freshness questionable
+__label__atmosphere atmosphere make shopping pleasant experience
+__label__neighborhood great small & local grocer
+__label__quality food pretty bad
+__label__cleanliness clean
+__label__atmosphere overall atmosphere nice
+__label__ethnic_selection great selection asian mexican
+__label__ethnic_selection great selection international product
+__label__selection general great supermarket find
+__label__ethnic_selection basic necessity exotic need supermarket
+__label__efficiency_of_service cashier s
+__label__quality quality grocery terrible
+__label__parking ahh cover parking lot great
+__label__selection selection great
+__label__efficiency_of_service checkout pretty slow self checkout
+__label__quality bad quality
+__label__crowded not crowd
+__label__staff bad service not recommend
+__label__atmosphere nice ambiance
+__label__cleanliness clean facility
+__label__crowded crowd time
+__label__offerings upstairs dining area take cake
+__label__atmosphere overall atmosphere nice
+__label__price high price
+__label__efficiency_of_service long checkout line
+__label__proximity quick stop shop
+__label__staff nice staff
+__label__offerings great food court
+__label__layout layout nice
+__label__offerings meat department good selection large cut not small grocery store
+__label__atmosphere good ambience
+__label__proximity convenient grocery market competitive price
+__label__atmosphere place kind dumpy people bum money
+__label__layout good quick stop shop
+__label__cleanliness cleanliness
+__label__offerings hot bar
+__label__fresh grocery need household find exception fresh seafood
+__label__crowded crowd time
+__label__neighborhood good local store
+__label__ethnic_selection notably latin america east asia
+__label__parking ahh cover parking lot great
+__label__repeat_visit wegman pleasant experience
+__label__repeat_visit let
+__label__efficiency_of_service quick check cashier
+__label__crowded busy place
+__label__ethnic_selection sell jicama
+__label__atmosphere people hang
+__label__atmosphere good ambience
+__label__ethnic_selection good bit latin random asian flavor
+__label__crowded place pack
+__label__ethnic_selection itac a!ac s own korean cater salvadorian
+__label__fresh food fresh
+__label__repeat_visit aldi stop grocery run
+__label__quality produce generally good
+__label__price good little supermarket fair price
+__label__selection ac a!a|
+__label__neighborhood excellent non - chain
+__label__staff staff friendly
+__label__atmosphere overall atmosphere nice
+__label__selection find need
+__label__parking plenty parking easy find
+__label__neighborhood good little neighborhood market
+__label__crowded crowd
+__label__selection variety food option different place world
+__label__quality quality grocery terrible
+__label__atmosphere great atmosphere
+__label__cleanliness store restroom clean
+__label__offerings deli/ buffett bar good break work quick meal shop
+__label__fresh thing not able purchase want fresh herb
+__label__proximity convenient place people live downtown
+__label__selection need
+__label__crowded crowded
+__label__neighborhood nice neiborhood supermarket
+__label__staff staff greet door ask able find ok
+__label__quality poor quality food
+__label__quality quality food
+__label__selection extensive selection
+__label__offerings prepare food selection world
+__label__ethnic_selection good mexican food choice
+__label__efficiency_of_service quick service
+__label__efficiency_of_service cashier quick checkout
+__label__atmosphere overall atmosphere nice
+__label__selection product option
+__label__parking need bright light parking lot .practically dark no light reluctant shop night
+__label__parking parking
+__label__fresh love fresh market
+__label__staff bad service
+__label__selection find need
+__label__crowded sure not ram carts- customer rush
+__label__quality food pretty high quality
+__label__staff love way place treat employee
+__label__repeat_visit wegman visit impressed
+__label__layout layout nice
+__label__quality great produce meat
+__label__efficiency_of_service quick check cashier
+__label__selection time find good world
+__label__ethnic_selection good selection hard find asian pantry item dc
+__label__offerings bakery
+__label__quality food pretty high quality
+__label__parking not like parking lot
+__label__fresh fresh produce limited supply
+__label__ethnic_selection store remarkable international food choose
+__label__proximity convenient market surprise
+__label__price quick lunch reasonable price
+__label__efficiency_of_service quick easy
+__label__cleanliness manage professional sure store remain clean welcome no matter busy
+__label__staff cashier awsome
+__label__parking bad not parking lot
+__label__offerings nice place lunch
+__label__price cheap price
+__label__ethnic_selection soo stuff eat europe not find
+__label__proximity overall get job need pick quickly
+__label__layout layout good
+__label__offerings salad bar decent
+__label__offerings great slice ham n cheese
+__label__efficiency_of_service cashier pretty slow
+__label__proximity great store quick visit right corner
+__label__parking need bright light parking lot .practically dark no light reluctant shop night
+__label__quality quality great
+__label__proximity convenient market surprise
+__label__layout layout bad
+__label__quality food awsome
+__label__offerings upstairs dining area take cake
+__label__quality fantastic food
+__label__staff employee helpful
+__label__crowded store not crowd
+__label__staff staff cashier friendly nice
+__label__atmosphere place kind dumpy people bum money
+__label__offerings quality butcher deli
+__label__price great price item
+__label__atmosphere atmosphere nice
+__label__efficiency_of_service quick check cashier
+__label__layout gigantic size grocery store
+__label__selection interesting collection treat
+__label__selection fantastic selection item
+__label__proximity good pinch
+__label__layout excellent look
+__label__parking parking lot handicap accessible parking free
+__label__parking parking lot provide
+__label__proximity excellent option couple block away
+__label__selection aldi doesnac a!ac t need
+__label__repeat_visit pleasure shop
+__label__quality food pretty high quality
+__label__repeat_visit fun shopping experience
+__label__neighborhood small neighborhood grocery block somewhat large neighborhood grocery
+__label__proximity live close
+__label__neighborhood great local neighborhood
+__label__parking easy parking low level
+__label__crowded crowded
+__label__offerings upstairs dining area take cake
+__label__offerings bad experience coffee shop
+__label__selection good selection
+__label__layout layout suck
+__label__proximity close supermarket live town dc
+__label__staff checker kind
+__label__efficiency_of_service knowledgeable quick aisist6
+__label__repeat_visit usually visit location need grab couple minute item work
+__label__crowded crowded
+__label__neighborhood little family own supermarket vital shop dupont circle neighborhood
+__label__repeat_visit definitely not grocery shopping
+__label__parking dock star hard find parking
+__label__neighborhood awesome for.the neighborhood
+__label__proximity walk distance
+__label__crowded awesome not busy time day
+__label__layout bite cramped
+__label__proximity wish locate live unfortunately not
+__label__efficiency_of_service line aldi line quick
+__label__parking no parking
+__label__crowded place pack
+__label__quality good quality
+__label__atmosphere nice atmosphere
+__label__layout layout suck
+__label__layout interior lot desire
+__label__price pretty decent price
+__label__layout instance not store ac a!a|
+__label__layout layout bad
+__label__selection store not feel like run mill supermarket new magically pop basket
+__label__proximity overall get job need pick quickly
+__label__efficiency_of_service great quick lunch
+__label__neighborhood nice neighborhood shop
+__label__repeat_visit aldi stop grocery run
+__label__cleanliness clean store
+__label__proximity excellent option couple block away
+__label__ethnic_selection great selection different global cuisine
+__label__staff wonderful people bless
+__label__staff experience bad customer service like tonight
+__label__parking overnight parking available
+__label__staff super friendly
+__label__staff staff help answer question regardless dept work
+__label__layout layout suck
+__label__parking parking space
+__label__fresh fresh fruit meat
+__label__crowded not crowd
+__label__efficiency_of_service slow check rude
+__label__ethnic_selection great small ethnic supermarket middle dc
+__label__selection great selection
+__label__selection love place need need
+__label__efficiency_of_service good quick spot
+__label__efficiency_of_service put giant long line
+__label__atmosphere atmosphere make shopping pleasant experience
+__label__atmosphere place kind dumpy people bum money
+__label__offerings ton option lunch ample seating
+__label__efficiency_of_service line open
+__label__crowded weekend little crowded
+__label__cleanliness clean
+__label__quality great quality meat produce
+__label__fresh translate google fresh vegetable original verduras fresca
+__label__selection good buy thing thing usually not find local giant food
+__label__proximity close new home
+__label__selection find crumpet
+__label__neighborhood good location near neighborhood
+__label__quality good quality product
+__label__atmosphere people hang
+__label__parking lot parking space & easy
+__label__fresh produce not fresh
+__label__parking weekend usually busy harder find parking close store
+__label__proximity shaw giant despite place nearly equidistant
+__label__repeat_visit regular store brand
+__label__efficiency_of_service cashier s
+__label__cleanliness clean people helpful
+__label__cleanliness clean
+__label__crowded way crowd
+__label__ethnic_selection stop japanese potato scotch bonnet
+__label__staff experience helpful service pleasing attitude
+__label__layout layout suck
+__label__selection variety food people
+__label__efficiency_of_service line long
+__label__fresh fish not fresh not cut size need cut offer
+__label__ethnic_selection great selection asian mexican
+__label__offerings huge cheese olive bar
+__label__staff helpful staff
+__label__quality food pretty bad
+__label__neighborhood family own grocery store
+__label__ethnic_selection good mexican food choice
+__label__ethnic_selection usually check need specific item ethnic dish schleppe va md
+__label__cleanliness messy
+__label__selection general great supermarket find
+__label__crowded way crowded
+__label__neighborhood overall great little neighborhood supermarket
+__label__staff bad service
+__label__crowded weekend little crowded
+__label__repeat_visit good grocery store
+__label__offerings butcher
+__label__selection stock time
+__label__parking parking lot
+__label__proximity excellent option couple block away
+__label__selection good selection & fresh meat & seafood
+__label__offerings delicious bakery
+__label__parking parking
+__label__selection place need
+__label__proximity convenient location
+__label__crowded crowded
+__label__repeat_visit pleasant experience
+__label__parking easy parking low level
+__label__ethnic_selection good mexican food choice
+__label__fresh frequent fresh market thrill
+__label__offerings salad bar decent
+__label__crowded awesome not busy time day
+__label__price place point price
+__label__neighborhood great neighborhood corner store
+__label__fresh good butcher meat fresh
+__label__proximity close new home
+__label__selection stock
+__label__cleanliness nice clean store reasonable price
+__label__ethnic_selection asian own plenty ethnic late food difficult find locally
+__label__selection item
+__label__cleanliness great price pretty clean
+__label__repeat_visit people obsess store
+__label__ethnic_selection neat hispanic asian grocery
+__label__quality food pretty high quality
+__label__atmosphere good atmosphere
+__label__proximity wish locate live unfortunately not
+__label__price place point price
+__label__efficiency_of_service cashier
+__label__fresh pretty large selection grocery include fresh fruit veggie
+__label__repeat_visit love aldi apparently
+__label__cleanliness manage professional sure store remain clean welcome no matter busy
+__label__proximity close supermarket live town dc
+__label__parking parking lot
+__label__selection buy house marinate steak tip meat delicious mckinnonac a!ac s disappoint good
+__label__ethnic_selection soo stuff eat europe not find
+__label__quality bad quality
+__label__price reasonable price
+__label__staff bad service not recommend
+__label__price meat price good
+__label__price price competitive store place upgrade old aldi store
+__label__crowded busy place
+__label__price reasonable price
+__label__repeat_visit great experience
+__label__neighborhood little family own supermarket vital shop dupont circle neighborhood
+__label__ethnic_selection large box pocky angelo pietro salad dressing
+__label__cleanliness clean
+__label__staff helpful staff
+__label__proximity great store quick visit right corner
+__label__fresh love wegman fresh food
+__label__atmosphere nice ambiance
+__label__repeat_visit definitely not grocery shopping
+__label__atmosphere people hang
+__label__atmosphere people hang
+__label__atmosphere overall atmosphere nice
+__label__cleanliness store clean
+__label__offerings hot bar
+__label__quality great quality meat produce
+__label__cleanliness clean line usually speedy
+__label__offerings ton option lunch ample seating
+__label__staff great people
+__label__crowded place crowd long line
+__label__cleanliness not clean organized
+__label__proximity overall get job need pick quickly
+__label__neighborhood neighborhood store
+__label__crowded store not crowd
+__label__neighborhood nice neighborhood shop
+__label__layout gigantic size grocery store
+__label__layout layout suck
+__label__repeat_visit good place food
+__label__cleanliness clean good price friendly staff
+__label__price youy find great price grocery
+__label__efficiency_of_service cashier pretty slow
+__label__neighborhood neighborhood clinton md
+__label__parking parking free available careful parking lot way way set
+__label__ethnic_selection great ethnic market stay open pretty late consider locally own business
+__label__ethnic_selection great ethnic market stay open pretty late consider locally own business
+__label__fresh thankful convenience fresh produce
+__label__price pick little pound ground pork
+__label__repeat_visit great experience
+__label__layout gigantic size grocery store
+__label__parking escalator locate inside store go second floor parking garage
+__label__crowded crowd
+__label__neighborhood fantastic neighborhood grocery store deli want
+__label__neighborhood nice neighborhood corner store
+__label__offerings salad bar decent
+__label__selection stock
+__label__repeat_visit feel nice stop store
+__label__neighborhood nice neighborhood corner store
+__label__cleanliness clean
+__label__layout layout suck
+__label__selection love aldi find look
+__label__fresh good fresh food fruit
+__label__neighborhood good neighborhood meat market planet
+__label__layout layout good
+__label__selection fantastic selection item
+__label__price not feel like pay food price food staple
+__label__offerings upstairs dining area take cake
+__label__price great value great price
+__label__fresh fresh fruit meat
+__label__fresh fresh product good care ask
+__label__neighborhood great community grocery store
+__label__quality good dang food grocery option
+__label__efficiency_of_service quick stop shop
+__label__staff bad customer service
+__label__staff nice lady work register friendly folk
+__label__atmosphere nice atmosphere
+__label__offerings bakery
+__label__cleanliness clean facility
+__label__selection great selection food
+__label__quality food pretty high quality
+__label__staff employee helpful
+__label__offerings meat department good selection large cut not small grocery store
+__label__staff friendly service
+__label__price competitive price unlike store
+__label__crowded aldi crowd
+__label__quality good dang food grocery option
+__label__quality trust food amazing quality
+__label__atmosphere good atmosphere
+__label__neighborhood good local store
+__label__offerings delicious bakery
+__label__layout layout bad
+__label__staff staff cashier friendly nice
+__label__staff staff help answer question regardless dept work
+__label__proximity good pinch
+__label__offerings salad bar decent
+__label__neighborhood nice neighborhood corner store
+__label__efficiency_of_service line open
+__label__parking easy free love store.adega?aaadega?aaadega?aa
+__label__layout instance not store ac a!a|
+__label__efficiency_of_service generally short checkout line
+__label__parking cover parking
+__label__offerings helpful combine lunch grocery shopping
+__label__fresh hire not fresh
+__label__quality quality good
+__label__offerings great food court
+__label__staff attentive care staff
+__label__layout layout nice
+__label__efficiency_of_service checkout pretty slow self checkout
+__label__repeat_visit wegman donac a!ac t love
+__label__proximity convenient place people live downtown
+__label__proximity convenient location
+__label__fresh good & fresh meat & seafood
+__label__quality good quality food
+__label__crowded crowd
+__label__offerings tasty hot food bar
+__label__price cheap price
+__label__quality want high quality
+__label__crowded not crowded
+__label__fresh meat not look fresh
+__label__quality quality grocery terrible
+__label__staff friendly staff
+__label__offerings nice place lunch
+__label__price not cheap grocery store
+__label__fresh receive fresh produce great price
+__label__ethnic_selection combination latin asian market mainstream food item
+__label__price price right
+__label__parking lot parking space & easy
+__label__price reasonable price
+__label__selection surprising selection
+__label__layout layout suck
+__label__layout despite store huge
+__label__atmosphere nice atmosphere
+__label__cleanliness cleanliness
+__label__layout gigantic size grocery store
+__label__selection place need

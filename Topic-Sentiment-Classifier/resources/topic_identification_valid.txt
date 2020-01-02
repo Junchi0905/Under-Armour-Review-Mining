@@ -1,0 +1,360 @@
+__label__cleanliness cleaned deli
+__label__freshness fresh food
+__label__staff rude ppl working good
+__label__repeat_visit spinneys recommended buy daily meals
+__label__quality good quality
+__label__no_topic great shop
+__label__offerings salad bar amazing
+__label__quality food awsome
+__label__efficiency_of_service like quick efficient check
+__label__price place point prices
+__label__offerings great food court
+__label__efficiency_of_service lines long
+__label__ethnic_selection asian latin ac a!a|
+__label__quality quality groceries
+__label__repeat_visit best grocery store world
+__label__staff staff friendly willing help
+__label__efficiency_of_service definitely convenient place need quick
+__label__repeat_visit let
+__label__selection find ingredients not stors
+__label__atmosphere nice atmosphere
+__label__ethnic_selection great selection asian mexican
+__label__offerings food counter nice
+__label__crowded aldi crowded
+__label__cleanliness rest rooms clean staff helpful
+__label__atmosphere friendly atmosphere
+__label__convenience nice place near marina mall
+__label__no_topic fruits meat
+__label__no_topic avocados
+__label__price prices not beat
+__label__location hard notice
+__label__no_topic bestworld reminds mount pleasant wasnac a!ac t yuppie enclave dollar homes
+__label__ethnic_selection good selection harder find asian pantry items dc
+__label__crowded getting pretty crowded days
+__label__offerings meat section non muslim
+__label__location closed renovation
+__label__location s moved inside
+__label__efficiency_of_service generally short checkout lines
+__label__crowded crowded
+__label__atmosphere people hanging
+__label__layout not large supermarket good choice
+__label__offerings bad experience coffee shop
+__label__neighborhood awesome for.the neighborhood
+__label__quality quality good
+__label__efficiency_of_service putting giant long lines
+__label__layout biggest spinneys
+__label__selection find need
+__label__staff rude ppl working good
+__label__staff staff friendly helpful
+__label__selection good selection
+__label__quality good quality
+__label__ethnic_selection quaint neighborhood grocery store plenty international items
+__label__cleanliness clean store
+__label__ethnic_selection asian owned plenty ethnic lated foods difficult find locally
+__label__location closed
+__label__parking parking space good
+__label__layout small store
+__label__no_topic special
+__label__efficiency_of_service lines moved quickly
+__label__freshness fresh produce
+__label__efficiency_of_service definitely convenient place need quick
+__label__cleanliness nice clean store
+__label__offerings butcher
+__label__offerings meat section non muslim
+__label__convenience overall gets job need pick quickly
+__label__layout biggest spinneys
+__label__ethnic_selection neat hispanic asian grocery
+__label__freshness fresh produce
+__label__neighborhood neighborhood flourished
+__label__location recently renovated
+__label__selection unique hard find offering
+__label__convenience convenient
+__label__no_topic department bad smell
+__label__ethnic_selection find good deal rare items european foods
+__label__offerings bad experience coffee shop
+__label__crowded crowded
+__label__neighborhood neighborhood store
+__label__crowded crowded
+__label__crowded sure not rammed carts- customers rush
+__label__freshness fresh products fair prices
+__label__no_topic good
+__label__location closed
+__label__freshness convenient got spoiled chicken produce wilted walk home
+__label__quality great produce
+__label__layout gigantic size grocery store
+__label__convenience convenient located
+__label__price prices low
+__label__staff rude ppl working good
+__label__cleanliness cleaned deli
+__label__cleanliness store clean & employees r respectful
+__label__neighborhood neighbors columbia heights going
+__label__efficiency_of_service quick checkout
+__label__convenience location nice
+__label__neighborhood nice neiborhood supermarket
+__label__parking ahh covered parking lot great
+__label__efficiency_of_service quicker fast food
+__label__ethnic_selection soo stuff eat europe not find
+__label__price expensive compare stores
+__label__crowded weekends little crowded
+__label__price little overpriced far american stuff
+__label__neighborhood little family owned supermarket vital shop dupont circle neighborhood
+__label__layout layout good
+__label__offerings good bread
+__label__selection times find best world
+__label__selection lot different variety options
+__label__cleanliness clean roomies right class order
+__label__staff store customer service bad
+__label__efficiency_of_service beware lines depending limited cashiers
+__label__freshness organic high end products scrumptious
+__label__repeat_visit awesome
+__label__staff bad experience store clerk refused look ltem l wanted
+__label__price fine expensive
+__label__staff helpful cheerful delight
+__label__layout arranged
+__label__layout organized
+__label__no_topic good shopping
+__label__crowded busy place
+__label__parking not like parking lot
+__label__parking ample parking
+__label__quality good quality products
+__label__freshness super selection fruits
+__label__no_topic store good
+__label__freshness pretty large selection groceries including fresh fruits veggies
+__label__neighborhood family owned grocery store
+__label__parking bad not parking lot
+__label__freshness not uncommon find white mold
+__label__ethnic_selection lot specialty foods looking for.and couple blocks away
+__label__crowded awesome not busy time day
+__label__offerings fresh bread
+__label__crowded not crowded
+__label__neighborhood live neighborhood find pretty need
+__label__freshness fresh produce
+__label__location need location map new location opens
+__label__neighborhood neighborhood flourished
+__label__price meat prices good
+__label__efficiency_of_service cashiers pretty slow
+__label__repeat_visit times week
+__label__neighborhood family owned grocery store
+__label__price great prices
+__label__layout excellent look
+__label__convenience excellent option couple blocks away
+__label__repeat_visit good
+__label__freshness food fresh frozen bags not going cost
+__label__efficiency_of_service lines long
+__label__layout considering size store
+__label__convenience live close
+__label__efficiency_of_service nearly need work quick shopping
+__label__parking easy free parking.i love store.adega?aaadega?aaadega?aa
+__label__efficiency_of_service line aldi lines quick
+__label__freshness molded tomatoes shelves
+__label__selection supper store
+__label__location difficult find grocery store downtown
+__label__efficiency_of_service quickly
+__label__atmosphere nice ambiance
+__label__quality good quality
+__label__ethnic_selection great selection different global cuisines
+__label__neighborhood neighborhood friendly
+__label__staff staff help answer questions regardless dept work
+__label__ethnic_selection great ethnic market stays open pretty late considering locally owned business
+__label__freshness produce usually mold nearly time fine
+__label__efficiency_of_service fast food
+__label__repeat_visit great place shop food
+__label__neighborhood nice neiborhood supermarket
+__label__ethnic_selection stop japanese potatoes scotch bonnets
+__label__freshness produce fresh
+__label__offerings bakery point
+__label__staff works friendly
+__label__ethnic_selection find good deal rare items european foods
+__label__freshness translated google fresh vegetables original verduras frescas
+__label__cleanliness lot cleaner organized area
+__label__parking plenty free parking
+__label__layout place organized
+__label__offerings love cake bake
+__label__atmosphere friendly atmosphere
+__label__staff customer service great
+__label__efficiency_of_service long checkout lines
+__label__ethnic_selection great smaller ethnic supermarket middle dc
+__label__efficiency_of_service quick ice cream stop
+__label__quality quality food not best
+__label__selection decent selection products
+__label__parking parking available
+__label__layout not large supermarket good choice
+__label__quality food awsome
+__label__layout layout good
+__label__cleanliness store need cleaning better attitudes staff
+__label__repeat_visit sport quick food items gatorade
+__label__freshness received fresh produce great price
+__label__repeat_visit spinneys recommended buy daily meals
+__label__efficiency_of_service quick check
+__label__offerings meat department good selection larger cuts not smaller grocery stores
+__label__ethnic_selection nice little store ethnic foods asian hispanic
+__label__selection leesburg produce section not good
+__label__selection food stuff available spinneys
+__label__no_topic amazing store
+__label__staff love aldi hyattsville employees not care leave bad
+__label__parking parking space
+__label__atmosphere overall atmosphere nice
+__label__atmosphere overall atmosphere nice
+__label__repeat_visit pleasure shop
+__label__atmosphere overall atmosphere nice
+__label__neighborhood great small & local grocer
+__label__layout architecture stylish elegant
+__label__location actual inside al ghurair mall
+__label__quality issues goods quality
+__label__efficiency_of_service cashiers pretty slow
+__label__quality best dang food grocery options
+__label__efficiency_of_service like quick efficient check
+__label__efficiency_of_service super organized quick checkout
+__label__staff customer service good
+__label__price good bit expensive
+__label__price meats want prices tend little higher
+__label__efficiency_of_service cashier s
+__label__offerings salad bar decent
+__label__atmosphere nice atmosphere
+__label__neighborhood live neighborhood find pretty need
+__label__location market dubai marina
+__label__crowded crowded
+__label__layout given size
+__label__crowded crowd
+__label__atmosphere good ambience
+__label__repeat_visit fun shopping experience
+__label__neighborhood great neighborhood corner store
+__label__location market dubai marina
+__label__neighborhood awesome for.the neighborhood
+__label__quality great produce meats
+__label__quality good quality products
+__label__quality good quality
+__label__price products little pricey
+__label__staff friendly staff
+__label__convenience located
+__label__price price competitive store place upgrade old aldi stores
+__label__convenience good spineys store quick shopping visits located g level al gurair mall
+__label__atmosphere great atmosphere
+__label__offerings great sliced ham n cheese
+__label__offerings great food court
+__label__crowded crowded
+__label__selection found new delicious try
+__label__atmosphere good ambience
+__label__efficiency_of_service cashiers quick checkout
+__label__location alghurair makes hard people locate
+__label__cleanliness store clean know
+__label__staff ones attitude hate decision job overall good store
+__label__selection aquapsa se encuentra de todo un poco
+__label__location hard notice
+__label__quality good quality
+__label__location need location map new location opens
+__label__ethnic_selection nice variety items asian section
+__label__efficiency_of_service lines open
+__label__cleanliness store clean customer service good
+__label__parking lots parking
+__label__location spinneys al ghurair branch closed
+__label__efficiency_of_service short check lines
+__label__no_topic excellent choice
+__label__offerings deli/ buffett bar good break work quick meal shopping
+__label__convenience excellent option couple blocks away
+__label__convenience closest supermarket living town dc
+__label__parking plenty parking
+__label__no_topic great meats
+__label__layout place big
+__label__parking plenty parking
+__label__atmosphere people hanging
+__label__price little bit pricey
+__label__repeat_visit worst branch dubai
+__label__selection moment look shelf
+__label__efficiency_of_service lines long
+__label__freshness fruit
+__label__cleanliness not clean & shelves disarray
+__label__no_topic perfect place shop daily needs
+__label__ethnic_selection nice people great selection random ethnic food
+__label__crowded not crowded
+__label__no_topic need credit card purchase
+__label__price great meat prices
+__label__neighborhood neighborhood friendly
+__label__atmosphere overall atmosphere nice
+__label__repeat_visit aldi stop grocery run
+__label__quality good quality
+__label__ethnic_selection nice variety items asian section
+__label__price prices low
+__label__efficiency_of_service slow checking rude
+__label__ethnic_selection stop japanese potatoes scotch bonnets
+__label__freshness produce fresh fun shopping
+__label__price prices not beat
+__label__parking no parking
+__label__ethnic_selection good bit latin random asian flavors
+__label__offerings love cake bake
+__label__neighborhood family owned grocery store
+__label__crowded place packed
+__label__parking no parking lot
+__label__convenience convenient location
+__label__crowded crowded
+__label__layout place organized
+__label__offerings tasty hot food bar
+__label__crowded busy place
+__label__staff people ready help
+__label__selection stocked
+__label__staff people friendly
+__label__cleanliness pretty clean stocked
+__label__efficiency_of_service wait long
+__label__no_topic icewine adega?aaadega?aa > >
+__label__parking parking space good
+__label__efficiency_of_service lines open
+__label__cleanliness clean organized
+__label__staff friendly staff
+__label__quality quality food
+__label__location best supermarket marina newly expanded
+__label__quality nice quality products
+__label__location currently undergoing major refit
+__label__ethnic_selection large boxes pocky angelo pietro salad dressings
+__label__location need location map new location opens
+__label__staff bad customer service
+__label__staff staff help answer questions regardless dept work
+__label__ethnic_selection good selection harder find asian pantry items dc
+__label__convenience convenient
+__label__quality quality products
+__label__location closed
+__label__selection limited selection
+__label__convenience located conveniently marina residents
+__label__price prices bit higher compared supermarkets
+__label__parking docked star hard find parking
+__label__crowded crowded
+__label__atmosphere atmosphere makes shopping pleasant experience
+__label__offerings prepared food selection world
+__label__parking no parking lot
+__label__ethnic_selection usually check need specific item ethnic dish schlepping va md
+__label__repeat_visit pleasant experience
+__label__ethnic_selection great selection asian mexican
+__label__staff bad customer service
+__label__atmosphere beautiful views
+__label__crowded place packed
+__label__atmosphere good atmosphere
+__label__efficiency_of_service slowest angriest aldi
+__label__no_topic dollars
+__label__parking metered parking outside
+__label__freshness friendly helpful plus food fresh reasonable price
+__label__efficiency_of_service lines moved quickly
+__label__parking easy free parking.i love store.adega?aaadega?aaadega?aa
+__label__location closed
+__label__price good little supermarket fair prices
+__label__quality trusted food amazing quality
+__label__cleanliness not clean organized
+__label__convenience wish located live unfortunately not
+__label__neighborhood great neighborhood store
+__label__repeat_visit disappointed store
+__label__atmosphere bad ambience
+__label__atmosphere bad ambience
+__label__freshness milk smelled bad
+__label__cleanliness clean stocked
+__label__atmosphere dope vibe
+__label__staff people friendly
+__label__parking ample parking
+__label__repeat_visit disappointed store
+__label__offerings hot bar
+__label__cleanliness nice clean store got variety products
+__label__selection love place need need
+__label__no_topic excellent choice
+__label__staff employees ready help
+__label__offerings beautiful flowers
+__label__price prices good
+__label__quality best dang food grocery options
+__label__price good little supermarket fair prices
+__label__repeat_visit pleasure shop

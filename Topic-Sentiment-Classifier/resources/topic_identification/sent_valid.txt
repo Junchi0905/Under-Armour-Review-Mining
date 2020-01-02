@@ -1,0 +1,40 @@
+__label__bad no parking lot
+__label__good good place shop
+__label__bad little overpriced far american stuff
+__label__good great experience
+__label__bad slow service
+__label__good great selection holiday ice cream flavor
+__label__bad meat not look fresh
+__label__good pleasant experience
+__label__good generally short checkout line
+__label__good great experience
+__label__good deli/ buffett bar good break work quick meal shop
+__label__good store remarkable international food choose
+__label__bad bad quality
+__label__bad produce usually mold nearly time fine
+__label__bad meat overprice fish not fresh ask manager lady pay apple pay not lose
+__label__bad store customer service bad
+__label__bad high price
+__label__bad place crowd long line
+__label__good staff friendly
+__label__good clean line usually speedy
+__label__bad rude ppl work good
+__label__good clean
+__label__good great quality
+__label__good cashier quick checkout
+__label__good price competitive store place upgrade old aldi store
+__label__bad sure not ram carts- customer rush
+__label__bad cashier pretty slow
+__label__bad downside produce not fresh
+__label__good pleasure wegman
+__label__good well selection fresh fruit vegetable compare chantilly location
+__label__bad dock star hard find parking
+__label__bad check crowd
+__label__good not bad
+__label__good quick ice cream stop
+__label__bad hire not fresh
+__label__bad tired nasty little store
+__label__bad cashier line long
+__label__bad thing not able purchase want fresh herb
+__label__good unique selection store
+__label__good good quality fresh produce great customer service
