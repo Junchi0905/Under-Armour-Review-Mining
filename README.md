@@ -7,3 +7,5 @@
 * Develop topic and sentiment classifiers using word embedding and machine learning models (Logistic Regression, Random Forest, Boosting) to assess customer perception to sports brand.[Topic Sentiment Classifier]
 
 * Produce data visualization report using Tableau to interrupt data and convey results to all stakeholders.[Ongoing]
+
+![image](https://github.com/Junchi0905/Under-Armour-Review-Mining/blob/master/Google%20Crawler/UA.jpg)
