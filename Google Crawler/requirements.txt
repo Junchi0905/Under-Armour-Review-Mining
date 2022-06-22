@@ -1,5 +1,5 @@
 modin==0.6.3
-numpy==1.17.2
+numpy==1.22.0
 textblob==0.15.2
 word2number==1.1
 p_tqdm==1.2
